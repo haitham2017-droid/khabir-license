@@ -1,6 +1,6 @@
 {
   "trial_days": 3,
   "all_free": false,
-  "active": [],
-  "blocked": ["WJF-8YMB"]
+  "active": ["WJF-8YMB"],
+  "blocked": []
 }
